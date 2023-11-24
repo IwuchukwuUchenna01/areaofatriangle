@@ -1,2 +1,2 @@
--- Area of a triangle 
--- Methods of a class
+- Area of a triangle 
+- Methods of a class
