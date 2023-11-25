@@ -1,0 +1,2 @@
+- Area of a triangle 
+- Methods of a class
